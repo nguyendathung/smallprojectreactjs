@@ -1,0 +1,5 @@
+.flex-container-footer {
+    display: flex;
+    background-color: orangered;;
+    justify-content: space-around;
+}
